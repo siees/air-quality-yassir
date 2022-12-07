@@ -25,11 +25,11 @@ npm start
 ```
   Navigate to `http://localhost:3000`
 
-- API Document endpoints
+- API swagger-ui Endpoint
+  http://localhost:3000/documentations
 
-  swagger-ui Endpoint : http://localhost:3000/documentations
-  
-  ## Project Structure
+ 
+## Project Structure
 The folder structure of this app is explained below:
 
 | Name | Description |
