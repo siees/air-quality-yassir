@@ -6,7 +6,6 @@ This project uses the following environment variables:
 | Name                          | Description                         |
 | ----------------------------- | ------------------------------------|
 |IQAIR_API_KEY           | IQAir API key            |
-| ----------------------------- | ------------------------------------|
 |MONGO_URI           | MongoDB URI            |
 
 
