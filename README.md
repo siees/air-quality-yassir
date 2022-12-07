@@ -25,8 +25,7 @@ npm start
 ```
   Navigate to `http://localhost:3000`
 
-- API swagger-ui Endpoint
-  http://localhost:3000/documentations
+- API swagger-ui Endpoint  :  http://localhost:3000/documentations
 
  
 ## Project Structure
