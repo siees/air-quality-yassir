@@ -1,6 +1,6 @@
 # air-quality-yassir
 
-# Environment vars
+## Environment vars
 This project uses the following environment variables:
 
 | Name                          | Description                         |
@@ -9,7 +9,7 @@ This project uses the following environment variables:
 |MONGO_URI           | MongoDB URI            |
 
 
-# Getting started
+## Getting started
 - Clone the repository
 ```
 git clone  https://github.com/siees/air-quality-yassir.git <project_name>
@@ -49,7 +49,7 @@ The folder structure of this app is explained below:
 
 
 
-### Running the build
+## Running the build
 All the different build steps are orchestrated via [npm scripts](https://docs.npmjs.com/misc/scripts).
 Npm scripts basically allow us to call (and chain) terminal commands via npm.
 
